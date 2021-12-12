@@ -1,0 +1,6 @@
+SUCCESS:
+143
+FAIL:
+Negative numbers are not accepted for this blackbox
+SUCCESS:
+65
