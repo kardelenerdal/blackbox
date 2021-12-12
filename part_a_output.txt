@@ -1,0 +1,14 @@
+SUCCESS:
+7
+SUCCESS:
+543855
+SUCCESS:
+15310
+SUCCESS:
+9
+FAIL:
+Negative numbers are not accepted for this blackbox
+FAIL:
+Negative numbers are not accepted for this blackbox
+SUCCESS:
+109
